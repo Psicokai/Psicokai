@@ -18,11 +18,7 @@
 </div>
 
 ##
-<div>
 
-<ahref="[linkedin.com/in/cassielle-silva-23087216a/](https://www.linkedin.com/in/leonardo-kaique-de-oliveira-segura-8347b624a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="https://www.instagram.com/Psicokai/?next=%2F&hl=pt-br" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</div>
 
 
 
