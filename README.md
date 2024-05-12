@@ -1,5 +1,5 @@
-## Olá, Seja bem-vindo, eu sou o Léo. 👽
-
+## Olá, seja bem-vindo, eu sou o Léo. 👽 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+seja+bem-vindo%2Ceu+sou+o+Léo!;)](https://git.io/typing-svg)
 ## Social media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardokaiquedeoliveira/)
