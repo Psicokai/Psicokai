@@ -25,4 +25,4 @@ Loading
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Psicokai&layout=compact&bg_color=000&border_color=#ffffff&title_color=#ffffff&text_color=#ffffff.)
+
