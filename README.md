@@ -7,7 +7,7 @@
 
 ## About me
 
-Loading
+Loading...
 
 ## Languages ​​and technologies 
 
